@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "W-B-X ～W-Boiled Extreme～",
+  "base_artist": "上木彩矢ｗTAKUYA",
+  "createdAt": "2025-12-20T07:51:11.677410Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "W-B-X ~W-Boiled Extreme~",
+      "artist": "上木彩矢wTAKUYA",
+      "has_synced": true,
+      "path": "select/01_W-B-X_~W-Boiled_Extreme~_上木彩矢wTAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "W‐B‐X 〜W-Boiled Extreme〜",
+      "artist": "上木彩矢",
+      "has_synced": false,
+      "path": "select/02_W‐B‐X_〜W-Boiled_Extreme〜_上木彩矢.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "W-B-X ~W-Boiled Extreme~",
+      "artist": "Aya Kamiki",
+      "has_synced": true,
+      "path": "select/03_W-B-X_~W-Boiled_Extreme~_Aya_Kamiki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "W-B-X ～W-Boiled Extreme～",
+      "artist": "上木彩矢 w TAKUYA",
+      "has_synced": false,
+      "path": "select/04_W-B-X_~W-Boiled_Extreme~_上木彩矢_w_TAKUYA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "W-B-X ～W-Boiled Extreme～",
+      "artist": "Kamiki Aya wTAKUYA",
+      "has_synced": true,
+      "path": "select/05_W-B-X_~W-Boiled_Extreme~_Kamiki_Aya_wTAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "W-B-X ~W-Boiled Extreme~",
+      "artist": "Aya Kamiki feat. TAKUYA",
+      "has_synced": true,
+      "path": "select/06_W-B-X_~W-Boiled_Extreme~_Aya_Kamiki_feat._TAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "w-b-x ～w-boiled extreme～",
+      "artist": "aya kamiki",
+      "has_synced": true,
+      "path": "select/07_w-b-x_~w-boiled_extreme~_aya_kamiki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "W-B-X 〜W-Boiled Extreme〜",
+      "artist": "Aya Kamiki",
+      "has_synced": true,
+      "path": "select/08_W-B-X_〜W-Boiled_Extreme〜_Aya_Kamiki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "W-B-X ～W-Boiled Extreme～",
+      "artist": "上木彩矢 w TAKUYA",
+      "has_synced": true,
+      "path": "select/09_W-B-X_~W-Boiled_Extreme~_上木彩矢_w_TAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "W-B-X ～W-Boiled Extreme～ 『超英雄祭』( LIVE )",
+      "artist": "上木彩矢",
+      "has_synced": false,
+      "path": "select/10_W-B-X_~W-Boiled_Extreme~_『超英雄祭』(_LIVE_)_上木彩矢.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "W-B-X 〜W-Boiled Extreme〜",
+      "artist": "Aya Kamiki",
+      "has_synced": true,
+      "path": "select/11_W-B-X_〜W-Boiled_Extreme〜_Aya_Kamiki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "W-B-X -W Boiled Extreme-",
+      "artist": "Mami",
+      "has_synced": true,
+      "path": "select/12_W-B-X_-W_Boiled_Extreme-_Mami.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "W-B-X 〜W-Boiled Extreme〜",
+      "artist": "Aya Kamiki, TAKUYA",
+      "has_synced": true,
+      "path": "select/13_W-B-X_〜W-Boiled_Extreme〜_Aya_Kamiki,_TAKUYA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "W-B-X 〜W-Boiled Extreme〜 - Instrumental",
+      "artist": "Aya Kamiki",
+      "has_synced": true,
+      "path": "select/14_W-B-X_〜W-Boiled_Extreme〜_-_Instrumental_Aya_Kamiki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "W-B-X ~W-Boiled Extreme~ (仮面ライダーW(ダブル))",
+      "artist": "上木彩矢 w TAKUYA",
+      "has_synced": false,
+      "path": "select/15_W-B-X_~W-Boiled_Extreme~_(仮面ライダーW(ダブル))_上木彩矢_w_TAKUYA.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "上木彩矢 w TAKUYA/W-B-X ～W-Boiled Extreme～",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/16_上木彩矢_w_TAKUYA_W-B-X_~W-Boiled_Extreme~_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "W-B-X ～W-Boiled Extreme～ (RIDER CHIPS Ver.)",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/17_W-B-X_~W-Boiled_Extreme~_(RIDER_CHIPS_Ver.)_RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "W-B-X ～W-Boiled Extreme～",
+      "artist": "上木彩矢 w TAKUYA",
+      "has_synced": false,
+      "path": "select/pl_01_W-B-X_~W-Boiled_Extreme~_上木彩矢_w_TAKUYA.txt"
+    }
+  ]
+}
