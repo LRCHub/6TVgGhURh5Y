@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "W-B-X ～W-Boiled Extreme～",
   "base_artist": "上木彩矢ｗTAKUYA",
-  "createdAt": "2025-12-20T07:51:11.677410Z",
+  "createdAt": "2026-01-09T06:17:37.397994Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,22 +123,6 @@
       "artist": "上木彩矢 w TAKUYA",
       "has_synced": false,
       "path": "select/15_W-B-X_~W-Boiled_Extreme~_(仮面ライダーW(ダブル))_上木彩矢_w_TAKUYA.txt"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "上木彩矢 w TAKUYA/W-B-X ～W-Boiled Extreme～",
-      "artist": "Various Artists",
-      "has_synced": true,
-      "path": "select/16_上木彩矢_w_TAKUYA_W-B-X_~W-Boiled_Extreme~_Various_Artists.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "W-B-X ～W-Boiled Extreme～ (RIDER CHIPS Ver.)",
-      "artist": "RIDER CHIPS",
-      "has_synced": true,
-      "path": "select/17_W-B-X_~W-Boiled_Extreme~_(RIDER_CHIPS_Ver.)_RIDER_CHIPS.lrc"
     },
     {
       "id": "petitlyrics_1",
